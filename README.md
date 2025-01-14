@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Node.Js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://komalsinha88.github.io/Portfolio/](https://komalsinha88.github.io/Portfolio/)
+- 👨‍💻 My Portfolio: [https://komalsinha88.github.io/Portfolio/](https://komalsinha88.github.io/PORTFOLIO/)
 
 - 💬 Ask me about **C++, Html, CSS, Javascript and SQL**
 
