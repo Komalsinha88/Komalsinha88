@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Node.Js and MongoDB**
 
-- 👨‍💻 My Portfolio: [https://komalsinhaportfolio.netlify.app/](https://komalsinhaportfolio.netlify.app/)
+- 👨‍💻 My Portfolio: [komal_sinha_portfolio](https://komalsinhaportfolio.netlify.app/)
 
 - 💬 Ask me about **C++, Html, CSS, Javascript and SQL**
 
